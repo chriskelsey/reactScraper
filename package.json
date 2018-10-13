@@ -1,0 +1,32 @@
+{
+  "name": "reactscraper",
+  "version": "1.0.0",
+  "description": "A new york times scraper built with React and Mongo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriskelsey/reactScraper.git"
+  },
+  "keywords": [
+    "React",
+    "NYT",
+    "MongoDB",
+    "Scraper"
+  ],
+  "author": "Christopher Kelsey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriskelsey/reactScraper/issues"
+  },
+  "homepage": "https://github.com/chriskelsey/reactScraper#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.3"
+  }
+}
